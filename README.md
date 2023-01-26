@@ -38,7 +38,7 @@ I am a Linux enthusiast and code for fun.
 | Language      | Proficiency                                                               |
 | ------------- | ------------------------------------------------------------------------- |
 | English       | C2                                                                        |
-| German        | Native language                                                           |
+| Punjabi       | Native language                                                           |
 | Hindi         | Native language                                                           |
 
 
