@@ -1,7 +1,7 @@
 # Hi everyone :wave:
 
-I'm a developer from the India, who loves open source, and is currently working on Pyhton & Golang.
-I am working as a SRE right now but code for fun.
+I'm a developer from the India, who loves open source, and is currently learning on Pyhton & Golang.
+I am a Linux enthusiast and code for fun.
 
 <details>
 <summary>
