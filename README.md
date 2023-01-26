@@ -1,6 +1,6 @@
 # Hi everyone :wave:
 
-I'm a web developer from the India, who loves open source, and is currently working on Pyhton & Golang.
+I'm a developer from the India, who loves open source, and is currently working on Pyhton & Golang.
 I am working as a SRE right now but code for fun.
 
 <details>
