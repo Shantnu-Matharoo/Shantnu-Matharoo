@@ -1,7 +1,7 @@
 # Hi everyone :wave:
 
-I'm a developer from the India, who loves open source, and is currently learning on Pyhton & Golang.
-I am a Linux enthusiast and code for fun.
+I'm a developer from India, who loves open source, and is currently learning Pyhton & Golang.
+I started out as operations/Linux guy, but i'm just trying to expand my horizons.
 
 <details>
 <summary>
